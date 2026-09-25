@@ -3,7 +3,7 @@
 A fictional, portfolio-ready IT service and operations demonstration with connected support tickets, equipment, maintenance, access requests, simulated backups, knowledge articles, reporting, and activity history.
 
 ## Run locally
-Open `index.html` in a modern browser. It is a client-side demonstration that persists changes in the browser using localStorage. Internet access is only needed for the optional Google Fonts.
+Open `index.html` in a modern browser. It is a client-side demonstration that persists changes in the browser using localStorage. `dashboard.js` powers the demo-labelled activity chart and clickable metric shortcuts; `flows.js` contains the validated record creation, dialogs, simulated backup, and CSV flows. Internet access is only needed for the optional Google Fonts.
 
 ## Demo workflows
 - Switch between Admin, Technician, and Requester demo roles.
